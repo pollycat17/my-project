@@ -426,3 +426,82 @@ header {
   margin-bottom: 80px;
   padding: 0;
 }
+/* ----------------------- */
+.contacts-section {
+  /* добавь сюда background-image */
+  /* добавь сюда background-color */
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+
+.white-header {
+  /* добавь сюда свойство color в соответствии с дизайном своего проекта */
+  margin-bottom: 60px;
+}
+
+.footer-text {
+  width: 40%;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  color: #808080c7;
+  margin: 0 auto 40px auto;
+}
+
+.footer-link {
+  width: 43px;
+  height: 43px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  /* добавь сюда свойство border-radius */
+  margin: 5px;
+}
+
+.footer-link:nth-of-type(1) {
+  /* добавь сюда свойство background-image */
+  background-color: #3b5997;
+}
+
+.footer-link:nth-of-type(2) {
+  /* добавь сюда свойство background-image */
+  background-color: #3ec2f3;
+}
+
+.footer-link:nth-of-type(3) {
+  /* добавь сюда свойство background-image */
+  background-color: #007ab9;
+}
+
+.footer-socials {
+  margin-bottom: 40px;
+}
+
+.phone {
+  color: #bface2;
+  margin-bottom: 12px;
+}
+
+.mail {
+  color: #bface2;
+  margin-bottom: 50px;
+}
+
+hr {
+  margin-bottom: 25px;
+}
+
+.copyright {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  /* добавь сюда свойство line-height */
+  color: #808080c7;
+}
+
+.copyright {
+  padding-bottom: 24px;
+  text-align: center;
+}
