@@ -394,8 +394,6 @@ header {
 .social-links {
   display: flex;
   justify-content: center;
-  height: 280px;
-  align-items: flex-end;
 }
 
 .member-social-link {
