@@ -428,8 +428,7 @@ header {
 }
 /* ----------------------- */
 .contacts-section {
-  /* добавь сюда background-image */
-  /* добавь сюда background-color */
+  background-image: url(./img/contactsBG.png);
   background-color: black;
   background-repeat: no-repeat;
   background-size: cover;
@@ -438,16 +437,16 @@ header {
 }
 
 .white-header {
-  /* добавь сюда свойство color в соответствии с дизайном своего проекта */
+  color: white;
   margin-bottom: 60px;
 }
 
 .footer-text {
   width: 40%;
   font-family: "Open Sans", sans-serif;
-  font-size: 14px;
+  font-size: 20px;
   line-height: 24px;
-  color: #808080c7;
+  color: #f0b89ec7;
   margin: 0 auto 40px auto;
 }
 
@@ -457,23 +456,23 @@ header {
   display: inline-block;
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  /* добавь сюда свойство border-radius */
+  border-radius: 50%;
   margin: 5px;
 }
 
 .footer-link:nth-of-type(1) {
-  /* добавь сюда свойство background-image */
+  background-image: url(./img/facebook.png);
   background-color: #3b5997;
 }
 
 .footer-link:nth-of-type(2) {
-  /* добавь сюда свойство background-image */
+  background-image: url(./img/twitter.png);
   background-color: #3ec2f3;
 }
 
 .footer-link:nth-of-type(3) {
-  /* добавь сюда свойство background-image */
-  background-color: #007ab9;
+  background-image: url(./img/instagram.png);
+  background-color: #e446dc;
 }
 
 .footer-socials {
@@ -481,12 +480,12 @@ header {
 }
 
 .phone {
-  color: #bface2;
+  color: #ffffff;
   margin-bottom: 12px;
 }
 
 .mail {
-  color: #bface2;
+  color: #ffffff;
   margin-bottom: 50px;
 }
 
@@ -497,8 +496,8 @@ hr {
 .copyright {
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
-  /* добавь сюда свойство line-height */
-  color: #808080c7;
+  line-height: 21px;
+  color: #eee8e8e3;
 }
 
 .copyright {
